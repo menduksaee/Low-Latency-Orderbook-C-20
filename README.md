@@ -384,6 +384,3 @@ make clean          # Clean all artifacts
 
 **Note**: This implementation prioritizes latency over throughput. For maximum throughput scenarios, consider batching operations and relaxing some real-time constraints.
 
-
-## Contact
-hrushikeshkalikiri@gmail.com(email)
