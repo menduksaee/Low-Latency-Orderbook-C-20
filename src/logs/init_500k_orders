@@ -1,0 +1,33 @@
+Order Book Initialized, has 0 orders currently
+
+Stats for initial SELL population:
+samples: 1000000
+average:  1444.83
+median:  1342
+95th:    1573
+99th:    3236
+99.99th: 8897
+
+Stats for initial BUY population:
+samples: 1000000
+average:  1453.74
+median:  1353
+95th:    1613
+99th:    3086
+99.99th: 6953
+
+Stats for 500000 Limit Orders:
+samples: 500000
+average:  5054.94
+median:  3046
+95th:    12814
+99th:    16572
+99.99th: 25098
+
+Stats for 500000 Market Orders:
+samples: 500000
+average:  9416.66
+median:  9318
+95th:    14738
+99th:    17623
+99.99th: 26320
